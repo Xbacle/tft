@@ -1,0 +1,3834 @@
+{
+  "source": "MetaTFT CDN / discovered from MetaTFT augment page",
+  "json": "public/data/Set18.json",
+  "augmentIcons": {
+    "T_AugmentIcon_AdvancedLoan": {
+      "icon": "T_AugmentIcon_AdvancedLoan",
+      "augmentIds": [
+        "DA_AdvancedLoan"
+      ],
+      "names": [
+        "Advanced Loan"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_advancedloan.png",
+      "original": "public/assets/augments/original/t_augmenticon_advancedloan.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_advancedloan.png"
+      }
+    },
+    "T_AugmentIcon_AdvancedLoanPlus": {
+      "icon": "T_AugmentIcon_AdvancedLoanPlus",
+      "augmentIds": [
+        "DA_AdvancedLoanPlus"
+      ],
+      "names": [
+        "Advanced Loan+"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_advancedloanplus.png",
+      "original": "public/assets/augments/original/t_augmenticon_advancedloanplus.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_advancedloanplus.png"
+      }
+    },
+    "T_AugmentIcon_ArcaneViktory_AugmentMasks": {
+      "icon": "T_AugmentIcon_ArcaneViktory_AugmentMasks",
+      "augmentIds": [
+        "DA_ArcaneViktory"
+      ],
+      "names": [
+        "Arcane Viktor-y"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_arcaneviktory_augmentmasks.png",
+      "original": "public/assets/augments/original/t_augmenticon_arcaneviktory_augmentmasks.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_arcaneviktory_augmentmasks.png"
+      }
+    },
+    "T_AugmentIcon_Ascension": {
+      "icon": "T_AugmentIcon_Ascension",
+      "augmentIds": [
+        "DA_Ascension",
+        "DA_PartialAscension"
+      ],
+      "names": [
+        "Ascension",
+        "Partial Ascension"
+      ],
+      "rarities": [
+        "Silver",
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_ascension.png",
+      "original": "public/assets/augments/original/t_augmenticon_ascension.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_ascension.png",
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_ascension.png"
+      }
+    },
+    "T_AugmentIcon_AugmentedPower": {
+      "icon": "T_AugmentIcon_AugmentedPower",
+      "augmentIds": [
+        "DA_AugmentedPower"
+      ],
+      "names": [
+        "Augmented Power"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_augmentedpower.png",
+      "original": "public/assets/augments/original/t_augmenticon_augmentedpower.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_augmentedpower.png"
+      }
+    },
+    "T_AugmentIcon_BacklineBlueprint": {
+      "icon": "T_AugmentIcon_BacklineBlueprint",
+      "augmentIds": [
+        "DA_BacklineBlueprint"
+      ],
+      "names": [
+        "Backline Blueprint"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_backlineblueprint.png",
+      "original": "public/assets/augments/original/t_augmenticon_backlineblueprint.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_backlineblueprint.png"
+      }
+    },
+    "T_AugmentIcon_BackupBows": {
+      "icon": "T_AugmentIcon_BackupBows",
+      "augmentIds": [
+        "DA_BackupBows"
+      ],
+      "names": [
+        "Backup Bows"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_backupbows.png",
+      "original": "public/assets/augments/original/t_augmenticon_backupbows.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_backupbows.png"
+      }
+    },
+    "T_AugmentIcon_BandOfThieves": {
+      "icon": "T_AugmentIcon_BandOfThieves",
+      "augmentIds": [
+        "DA_BandOfThieves",
+        "DA_BandOfThievesII",
+        "DA_BandOfThievesIIPlus",
+        "DA_BandOfThievesIIPlusPlus"
+      ],
+      "names": [
+        "Band of Thieves",
+        "Band of Thieves II",
+        "Band of Thieves II+",
+        "Band of Thieves II++"
+      ],
+      "rarities": [
+        "Silver",
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_bandofthieves.png",
+      "original": "public/assets/augments/original/t_augmenticon_bandofthieves.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_bandofthieves.png",
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_bandofthieves.png"
+      }
+    },
+    "T_AugmentIcon_BeltOverflow": {
+      "icon": "T_AugmentIcon_BeltOverflow",
+      "augmentIds": [
+        "DA_BeltOverflow"
+      ],
+      "names": [
+        "Belt Overflow"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_beltoverflow.png",
+      "original": "public/assets/augments/original/t_augmenticon_beltoverflow.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_beltoverflow.png"
+      }
+    },
+    "T_AugmentIcon_BigGrabBag_Gold_Big": {
+      "icon": "T_AugmentIcon_BigGrabBag_Gold_Big",
+      "augmentIds": [
+        "DA_18_BigGrabBag"
+      ],
+      "names": [
+        "Big Grab Bag"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_biggrabbag_gold_big.png",
+      "original": "public/assets/augments/original/t_augmenticon_biggrabbag_gold_big.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_biggrabbag_gold_big.png"
+      }
+    },
+    "T_AugmentIcon_BirthdayReunion": {
+      "icon": "T_AugmentIcon_BirthdayReunion",
+      "augmentIds": [
+        "DA_BirthdayReunion"
+      ],
+      "names": [
+        "Birthday Reunion"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_birthdayreunion.png",
+      "original": "public/assets/augments/original/t_augmenticon_birthdayreunion.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_birthdayreunion.png"
+      }
+    },
+    "T_AugmentIcon_BladeOverflow": {
+      "icon": "T_AugmentIcon_BladeOverflow",
+      "augmentIds": [
+        "DA_SwordOverflow"
+      ],
+      "names": [
+        "Sword Overflow"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_bladeoverflow.png",
+      "original": "public/assets/augments/original/t_augmenticon_bladeoverflow.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_bladeoverflow.png"
+      }
+    },
+    "T_AugmentIcon_BodyguardTraining": {
+      "icon": "T_AugmentIcon_BodyguardTraining",
+      "augmentIds": [
+        "DA_BodyguardTraining"
+      ],
+      "names": [
+        "Bodyguard Training"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_bodyguardtraining.png",
+      "original": "public/assets/augments/original/t_augmenticon_bodyguardtraining.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_bodyguardtraining.png"
+      }
+    },
+    "T_AugmentIcon_BonusGift": {
+      "icon": "T_AugmentIcon_BonusGift",
+      "augmentIds": [
+        "DA_BonusGift",
+        "DA_BonusGiftPlus"
+      ],
+      "names": [
+        "Bonus Gift",
+        "Bonus Gift+"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_bonusgift.png",
+      "original": "public/assets/augments/original/t_augmenticon_bonusgift.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_bonusgift.png"
+      }
+    },
+    "T_AugmentIcon_BoosterPack1": {
+      "icon": "T_AugmentIcon_BoosterPack1",
+      "augmentIds": [
+        "DA_BoosterPack"
+      ],
+      "names": [
+        "Booster Pack"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_boosterpack1.png",
+      "original": "public/assets/augments/original/t_augmenticon_boosterpack1.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_boosterpack1.png"
+      }
+    },
+    "T_AugmentIcon_BoosterPack2": {
+      "icon": "T_AugmentIcon_BoosterPack2",
+      "augmentIds": [
+        "DA_BoosterPackPlusPlus"
+      ],
+      "names": [
+        "Booster Pack++"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_boosterpack2.png",
+      "original": "public/assets/augments/original/t_augmenticon_boosterpack2.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_boosterpack2.png"
+      }
+    },
+    "T_AugmentIcon_BoosterPack3": {
+      "icon": "T_AugmentIcon_BoosterPack3",
+      "augmentIds": [
+        "DA_BoosterPackPlus"
+      ],
+      "names": [
+        "Booster Pack+"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_boosterpack3.png",
+      "original": "public/assets/augments/original/t_augmenticon_boosterpack3.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_boosterpack3.png"
+      }
+    },
+    "T_AugmentIcon_BoxingLessons": {
+      "icon": "T_AugmentIcon_BoxingLessons",
+      "augmentIds": [
+        "DA_BoxingLessons"
+      ],
+      "names": [
+        "Boxing Lessons"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_boxinglessons.png",
+      "original": "public/assets/augments/original/t_augmenticon_boxinglessons.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_boxinglessons.png"
+      }
+    },
+    "T_AugmentIcon_BranchingOut": {
+      "icon": "T_AugmentIcon_BranchingOut",
+      "augmentIds": [
+        "DA_18_BranchingOut",
+        "DA_18_BranchingOutPlus"
+      ],
+      "names": [
+        "Branching Out",
+        "Branching Out+"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_branchingout.png",
+      "original": "public/assets/augments/original/t_augmenticon_branchingout.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_branchingout.png"
+      }
+    },
+    "T_AugmentIcon_BronzeForLife": {
+      "icon": "T_AugmentIcon_BronzeForLife",
+      "augmentIds": [
+        "DA_BronzeForLifeI",
+        "DA_BronzeForLifeII"
+      ],
+      "names": [
+        "Bronze For Life I",
+        "Bronze For Life II"
+      ],
+      "rarities": [
+        "Gold",
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_bronzeforlife.png",
+      "original": "public/assets/augments/original/t_augmenticon_bronzeforlife.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_bronzeforlife.png",
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_bronzeforlife.png"
+      }
+    },
+    "T_AugmentIcon_BuildABud": {
+      "icon": "T_AugmentIcon_BuildABud",
+      "augmentIds": [
+        "DA_BuildABud"
+      ],
+      "names": [
+        "Build A Bud"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_buildabud.png",
+      "original": "public/assets/augments/original/t_augmenticon_buildabud.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_buildabud.png"
+      }
+    },
+    "T_AugmentIcon_BuriedTreasures_Gold_Big": {
+      "icon": "T_AugmentIcon_BuriedTreasures_Gold_Big",
+      "augmentIds": [
+        "DA_BuriedTreasuresIII"
+      ],
+      "names": [
+        "Buried Treasures III"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_buriedtreasures_gold_big.png",
+      "original": "public/assets/augments/original/t_augmenticon_buriedtreasures_gold_big.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_buriedtreasures_gold_big.png"
+      }
+    },
+    "T_AugmentIcon_CalculatedLoss_Gold_Big": {
+      "icon": "T_AugmentIcon_CalculatedLoss_Gold_Big",
+      "augmentIds": [
+        "DA_CalculatedLoss"
+      ],
+      "names": [
+        "Calculated Loss"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_calculatedloss_gold_big.png",
+      "original": "public/assets/augments/original/t_augmenticon_calculatedloss_gold_big.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_calculatedloss_gold_big.png"
+      }
+    },
+    "T_AugmentIcon_CallToChaos": {
+      "icon": "T_AugmentIcon_CallToChaos",
+      "augmentIds": [
+        "DA_CallToChaos"
+      ],
+      "names": [
+        "Call To Chaos"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_calltochaos.png",
+      "original": "public/assets/augments/original/t_augmenticon_calltochaos.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_calltochaos.png"
+      }
+    },
+    "T_AugmentIcon_CalledShot": {
+      "icon": "T_AugmentIcon_CalledShot",
+      "augmentIds": [
+        "DA_CalledShot"
+      ],
+      "names": [
+        "Called Shot"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_calledshot.png",
+      "original": "public/assets/augments/original/t_augmenticon_calledshot.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_calledshot.png"
+      }
+    },
+    "T_AugmentIcon_CapitalGains": {
+      "icon": "T_AugmentIcon_CapitalGains",
+      "augmentIds": [
+        "DA_CapitalGainsI",
+        "DA_CapitalGainsII"
+      ],
+      "names": [
+        "Capital Gains I",
+        "Capital Gains II"
+      ],
+      "rarities": [
+        "Silver",
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_capitalgains.png",
+      "original": "public/assets/augments/original/t_augmenticon_capitalgains.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_capitalgains.png",
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_capitalgains.png"
+      }
+    },
+    "T_AugmentIcon_CaretakersAlly": {
+      "icon": "T_AugmentIcon_CaretakersAlly",
+      "augmentIds": [
+        "DA_CaretakersFavor",
+        "DA_18_CaretakersAlly"
+      ],
+      "names": [
+        "Caretaker's Favor",
+        "Caretaker's Ally"
+      ],
+      "rarities": [
+        "Silver",
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_caretakersally.png",
+      "original": "public/assets/augments/original/t_augmenticon_caretakersally.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_caretakersally.png",
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_caretakersally.png"
+      }
+    },
+    "T_AugmentIcon_Carve-A-Path": {
+      "icon": "T_AugmentIcon_Carve-A-Path",
+      "augmentIds": [
+        "DA_CarveAPath"
+      ],
+      "names": [
+        "Carve a Path"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_carve-a-path.png",
+      "original": "public/assets/augments/original/t_augmenticon_carve-a-path.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_carve-a-path.png"
+      }
+    },
+    "T_AugmentIcon_Celestial-Blessings-I_TFT_Set16": {
+      "icon": "T_AugmentIcon_Celestial-Blessings-I_TFT_Set16",
+      "augmentIds": [
+        "DA_CelestialBlessingI",
+        "DA_CelestialBlessingII",
+        "DA_CelestialBlessingIII"
+      ],
+      "names": [
+        "Celestial Blessing I",
+        "Celestial Blessing II",
+        "Celestial Blessing III"
+      ],
+      "rarities": [
+        "Silver",
+        "Gold",
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_celestial-blessings-i_tft_set16.png",
+      "original": "public/assets/augments/original/t_augmenticon_celestial-blessings-i_tft_set16.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_celestial-blessings-i_tft_set16.png",
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_celestial-blessings-i_tft_set16.png",
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_celestial-blessings-i_tft_set16.png"
+      }
+    },
+    "T_AugmentIcon_ChallengersGrace": {
+      "icon": "T_AugmentIcon_ChallengersGrace",
+      "augmentIds": [
+        "DA_ChallengersGrace"
+      ],
+      "names": [
+        "Challenger's Grace"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_challengersgrace.png",
+      "original": "public/assets/augments/original/t_augmenticon_challengersgrace.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_challengersgrace.png"
+      }
+    },
+    "T_AugmentIcon_ChampDelivery": {
+      "icon": "T_AugmentIcon_ChampDelivery",
+      "augmentIds": [
+        "DA_ChampDelivery",
+        "DA_ChampDeliveryPlus",
+        "DA_ChampDeliveryPlusPlus"
+      ],
+      "names": [
+        "Champ Delivery",
+        "Champ Delivery+",
+        "Champ Delivery++"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_champdelivery.png",
+      "original": "public/assets/augments/original/t_augmenticon_champdelivery.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_champdelivery.png"
+      }
+    },
+    "T_AugmentIcon_ClearMind_Gold_Big": {
+      "icon": "T_AugmentIcon_ClearMind_Gold_Big",
+      "augmentIds": [
+        "DA_ClearMind"
+      ],
+      "names": [
+        "Clear Mind"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_clearmind_gold_big.png",
+      "original": "public/assets/augments/original/t_augmenticon_clearmind_gold_big.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_clearmind_gold_big.png"
+      }
+    },
+    "T_AugmentIcon_ClockworkAccelerator": {
+      "icon": "T_AugmentIcon_ClockworkAccelerator",
+      "augmentIds": [
+        "DA_ClockworkAccelerator"
+      ],
+      "names": [
+        "Clockwork Accelerator"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_clockworkaccelerator.png",
+      "original": "public/assets/augments/original/t_augmenticon_clockworkaccelerator.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_clockworkaccelerator.png"
+      }
+    },
+    "T_AugmentIcon_ClutteredMind_Gold_Big": {
+      "icon": "T_AugmentIcon_ClutteredMind_Gold_Big",
+      "augmentIds": [
+        "DA_ClutteredMind"
+      ],
+      "names": [
+        "Cluttered Mind"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_clutteredmind_gold_big.png",
+      "original": "public/assets/augments/original/t_augmenticon_clutteredmind_gold_big.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_clutteredmind_gold_big.png"
+      }
+    },
+    "T_AugmentIcon_Cognitive-Tax_TFT_Set17": {
+      "icon": "T_AugmentIcon_Cognitive-Tax_TFT_Set17",
+      "augmentIds": [
+        "DA_CognitiveTax",
+        "DA_CognitiveTaxPlus"
+      ],
+      "names": [
+        "Cognitive Tax",
+        "Cognitive Tax+"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_cognitive-tax_tft_set17.png",
+      "original": "public/assets/augments/original/t_augmenticon_cognitive-tax_tft_set17.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_cognitive-tax_tft_set17.png"
+      }
+    },
+    "T_AugmentIcon_CognitiveOverload": {
+      "icon": "T_AugmentIcon_CognitiveOverload",
+      "augmentIds": [
+        "DA_CognitiveOverload"
+      ],
+      "names": [
+        "Cognitive Overload"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_cognitiveoverload.png",
+      "original": "public/assets/augments/original/t_augmenticon_cognitiveoverload.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_cognitiveoverload.png"
+      }
+    },
+    "T_AugmentIcon_ComebackStory": {
+      "icon": "T_AugmentIcon_ComebackStory",
+      "augmentIds": [
+        "DA_ComebackStory"
+      ],
+      "names": [
+        "Comeback Story"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_comebackstory.png",
+      "original": "public/assets/augments/original/t_augmenticon_comebackstory.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_comebackstory.png"
+      }
+    },
+    "T_AugmentIcon_CommerceCore": {
+      "icon": "T_AugmentIcon_CommerceCore",
+      "augmentIds": [
+        "DA_CommerceCore"
+      ],
+      "names": [
+        "Commerce Core"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_commercecore.png",
+      "original": "public/assets/augments/original/t_augmenticon_commercecore.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_commercecore.png"
+      }
+    },
+    "T_AugmentIcon_ComponentBuffet_Silver_Big": {
+      "icon": "T_AugmentIcon_ComponentBuffet_Silver_Big",
+      "augmentIds": [
+        "DA_ComponentBuffet"
+      ],
+      "names": [
+        "Component Buffet"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_componentbuffet_silver_big.png",
+      "original": "public/assets/augments/original/t_augmenticon_componentbuffet_silver_big.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_componentbuffet_silver_big.png"
+      }
+    },
+    "T_AugmentIcon_ComponentQuest": {
+      "icon": "T_AugmentIcon_ComponentQuest",
+      "augmentIds": [
+        "DA_ComponentQuest"
+      ],
+      "names": [
+        "Component Quest"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_componentquest.png",
+      "original": "public/assets/augments/original/t_augmenticon_componentquest.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_componentquest.png"
+      }
+    },
+    "T_AugmentIcon_ConstructACompanion": {
+      "icon": "T_AugmentIcon_ConstructACompanion",
+      "augmentIds": [
+        "DA_ConstructACompanion",
+        "DA_ForgeAFriend"
+      ],
+      "names": [
+        "Construct a Companion",
+        "Forge A Friend"
+      ],
+      "rarities": [
+        "Silver",
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_constructacompanion.png",
+      "original": "public/assets/augments/original/t_augmenticon_constructacompanion.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_constructacompanion.png",
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_constructacompanion.png"
+      }
+    },
+    "T_AugmentIcon_CookingPot": {
+      "icon": "T_AugmentIcon_CookingPot",
+      "augmentIds": [
+        "DA_CookingPot"
+      ],
+      "names": [
+        "Cooking Pot"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_cookingpot.png",
+      "original": "public/assets/augments/original/t_augmenticon_cookingpot.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_cookingpot.png"
+      }
+    },
+    "T_AugmentIcon_Coronation": {
+      "icon": "T_AugmentIcon_Coronation",
+      "augmentIds": [
+        "DA_Coronation"
+      ],
+      "names": [
+        "Coronation"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_coronation.png",
+      "original": "public/assets/augments/original/t_augmenticon_coronation.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_coronation.png"
+      }
+    },
+    "T_AugmentIcon_Corrosion": {
+      "icon": "T_AugmentIcon_Corrosion",
+      "augmentIds": [
+        "DA_Corrosion"
+      ],
+      "names": [
+        "Corrosion"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_corrosion.png",
+      "original": "public/assets/augments/original/t_augmenticon_corrosion.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_corrosion.png"
+      }
+    },
+    "T_AugmentIcon_CraftedCrafting": {
+      "icon": "T_AugmentIcon_CraftedCrafting",
+      "augmentIds": [
+        "DA_CraftedCrafting"
+      ],
+      "names": [
+        "Crafted Crafting"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_craftedcrafting.png",
+      "original": "public/assets/augments/original/t_augmenticon_craftedcrafting.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_craftedcrafting.png"
+      }
+    },
+    "T_AugmentIcon_CryMeARiver": {
+      "icon": "T_AugmentIcon_CryMeARiver",
+      "augmentIds": [
+        "DA_CryMeARiver"
+      ],
+      "names": [
+        "Cry Me A River"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_crymeariver.png",
+      "original": "public/assets/augments/original/t_augmenticon_crymeariver.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_crymeariver.png"
+      }
+    },
+    "T_AugmentIcon_CursedCrown": {
+      "icon": "T_AugmentIcon_CursedCrown",
+      "augmentIds": [
+        "DA_CursedCrown"
+      ],
+      "names": [
+        "Cursed Crown"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_cursedcrown.png",
+      "original": "public/assets/augments/original/t_augmenticon_cursedcrown.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_cursedcrown.png"
+      }
+    },
+    "T_AugmentIcon_CyberneticUplink": {
+      "icon": "T_AugmentIcon_CyberneticUplink",
+      "augmentIds": [
+        "DA_CyberneticUplink_Gold"
+      ],
+      "names": [
+        "Cybernetic Uplink"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_cyberneticuplink.png",
+      "original": "public/assets/augments/original/t_augmenticon_cyberneticuplink.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_cyberneticuplink.png"
+      }
+    },
+    "T_AugmentIcon_Cybernetic_Gold_Big": {
+      "icon": "T_AugmentIcon_Cybernetic_Gold_Big",
+      "augmentIds": [
+        "DA_CyberneticImplants_Gold"
+      ],
+      "names": [
+        "Cybernetic Implants"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_cybernetic_gold_big.png",
+      "original": "public/assets/augments/original/t_augmenticon_cybernetic_gold_big.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_cybernetic_gold_big.png"
+      }
+    },
+    "T_AugmentIcon_DeadlierBlades": {
+      "icon": "T_AugmentIcon_DeadlierBlades",
+      "augmentIds": [
+        "DA_DeadlierBlades"
+      ],
+      "names": [
+        "Deadlier Blades"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_deadlierblades.png",
+      "original": "public/assets/augments/original/t_augmenticon_deadlierblades.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_deadlierblades.png"
+      }
+    },
+    "T_AugmentIcon_DeadlierCaps": {
+      "icon": "T_AugmentIcon_DeadlierCaps",
+      "augmentIds": [
+        "DA_DeadlierCaps"
+      ],
+      "names": [
+        "Deadlier Caps"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_deadliercaps.png",
+      "original": "public/assets/augments/original/t_augmenticon_deadliercaps.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_deadliercaps.png"
+      }
+    },
+    "T_AugmentIcon_DoubleTrouble_Gold": {
+      "icon": "T_AugmentIcon_DoubleTrouble_Gold",
+      "augmentIds": [
+        "DA_DoubleTrouble"
+      ],
+      "names": [
+        "Double Trouble"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_doubletrouble_gold.png",
+      "original": "public/assets/augments/original/t_augmenticon_doubletrouble_gold.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_doubletrouble_gold.png"
+      }
+    },
+    "T_AugmentIcon_Dummify": {
+      "icon": "T_AugmentIcon_Dummify",
+      "augmentIds": [
+        "DA_Dummify"
+      ],
+      "names": [
+        "Dummify"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_dummify.png",
+      "original": "public/assets/augments/original/t_augmenticon_dummify.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_dummify.png"
+      }
+    },
+    "T_AugmentIcon_DuoQueue": {
+      "icon": "T_AugmentIcon_DuoQueue",
+      "augmentIds": [
+        "DA_18_DuoQueue"
+      ],
+      "names": [
+        "Duo Queue"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_duoqueue.png",
+      "original": "public/assets/augments/original/t_augmenticon_duoqueue.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_duoqueue.png"
+      }
+    },
+    "T_AugmentIcon_EarlyLearning": {
+      "icon": "T_AugmentIcon_EarlyLearning",
+      "augmentIds": [
+        "DA_EarlyLearnings"
+      ],
+      "names": [
+        "Early Learnings"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_earlylearning.png",
+      "original": "public/assets/augments/original/t_augmenticon_earlylearning.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_earlylearning.png"
+      }
+    },
+    "T_AugmentIcon_Electrocharge-I": {
+      "icon": "T_AugmentIcon_Electrocharge-I",
+      "augmentIds": [
+        "DA_ElectrochargeI",
+        "DA_ElectrochargeII"
+      ],
+      "names": [
+        "Electrocharge I",
+        "Electrocharge II"
+      ],
+      "rarities": [
+        "Silver",
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_electrocharge-i.png",
+      "original": "public/assets/augments/original/t_augmenticon_electrocharge-i.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_electrocharge-i.png",
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_electrocharge-i.png"
+      }
+    },
+    "T_AugmentIcon_EpicRolldown": {
+      "icon": "T_AugmentIcon_EpicRolldown",
+      "augmentIds": [
+        "DA_EpicRolldown"
+      ],
+      "names": [
+        "Epic Rolldown"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_epicrolldown.png",
+      "original": "public/assets/augments/original/t_augmenticon_epicrolldown.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_epicrolldown.png"
+      }
+    },
+    "T_AugmentIcon_Epoch": {
+      "icon": "T_AugmentIcon_Epoch",
+      "augmentIds": [
+        "DA_Epoch",
+        "DA_EpochPlus"
+      ],
+      "names": [
+        "Epoch",
+        "Epoch+"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_epoch.png",
+      "original": "public/assets/augments/original/t_augmenticon_epoch.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_epoch.png"
+      }
+    },
+    "T_AugmentIcon_ExclusiveCustomization": {
+      "icon": "T_AugmentIcon_ExclusiveCustomization",
+      "augmentIds": [
+        "DA_ExclusiveCustomization"
+      ],
+      "names": [
+        "Exclusive Customization"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_exclusivecustomization.png",
+      "original": "public/assets/augments/original/t_augmenticon_exclusivecustomization.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_exclusivecustomization.png"
+      }
+    },
+    "T_AugmentIcon_Expedition": {
+      "icon": "T_AugmentIcon_Expedition",
+      "augmentIds": [
+        "DA_Expedition"
+      ],
+      "names": [
+        "Expedition"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_expedition.png",
+      "original": "public/assets/augments/original/t_augmenticon_expedition.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_expedition.png"
+      }
+    },
+    "T_AugmentIcon_Explosive-Growth": {
+      "icon": "T_AugmentIcon_Explosive-Growth",
+      "augmentIds": [
+        "DA_ExplosiveGrowth",
+        "DA_ExplosiveGrowthPlus"
+      ],
+      "names": [
+        "Explosive Growth",
+        "Explosive Growth+"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_explosive-growth.png",
+      "original": "public/assets/augments/original/t_augmenticon_explosive-growth.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_explosive-growth.png"
+      }
+    },
+    "T_AugmentIcon_ExtraBuckles_Silver": {
+      "icon": "T_AugmentIcon_ExtraBuckles_Silver",
+      "augmentIds": [
+        "DA_ExtraBuckles"
+      ],
+      "names": [
+        "Extra Buckles"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_extrabuckles_silver.png",
+      "original": "public/assets/augments/original/t_augmenticon_extrabuckles_silver.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_extrabuckles_silver.png"
+      }
+    },
+    "T_AugmentIcon_FeelingLucky": {
+      "icon": "T_AugmentIcon_FeelingLucky",
+      "augmentIds": [
+        "DA_FeelingLucky"
+      ],
+      "names": [
+        "Feeling Lucky"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_feelinglucky.png",
+      "original": "public/assets/augments/original/t_augmenticon_feelinglucky.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_feelinglucky.png"
+      }
+    },
+    "T_AugmentIcon_FindYourCenter_Silver": {
+      "icon": "T_AugmentIcon_FindYourCenter_Silver",
+      "augmentIds": [
+        "DA_FindYourCenter"
+      ],
+      "names": [
+        "Find Your Center"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_findyourcenter_silver.png",
+      "original": "public/assets/augments/original/t_augmenticon_findyourcenter_silver.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_findyourcenter_silver.png"
+      }
+    },
+    "T_AugmentIcon_Flexible": {
+      "icon": "T_AugmentIcon_Flexible",
+      "augmentIds": [
+        "DA_Flexible"
+      ],
+      "names": [
+        "Flexible"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_flexible.png",
+      "original": "public/assets/augments/original/t_augmenticon_flexible.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_flexible.png"
+      }
+    },
+    "T_AugmentIcon_FlowingTears_I": {
+      "icon": "T_AugmentIcon_FlowingTears_I",
+      "augmentIds": [
+        "DA_FlowingTears"
+      ],
+      "names": [
+        "Flowing Tears"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_flowingtears_i.png",
+      "original": "public/assets/augments/original/t_augmenticon_flowingtears_i.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_flowingtears_i.png"
+      }
+    },
+    "T_AugmentIcon_FocusedFire": {
+      "icon": "T_AugmentIcon_FocusedFire",
+      "augmentIds": [
+        "DA_FocusedFire"
+      ],
+      "names": [
+        "Focused Fire"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_focusedfire.png",
+      "original": "public/assets/augments/original/t_augmenticon_focusedfire.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_focusedfire.png"
+      }
+    },
+    "T_AugmentIcon_ForgedInStrength": {
+      "icon": "T_AugmentIcon_ForgedInStrength",
+      "augmentIds": [
+        "DA_ForgedInStrength"
+      ],
+      "names": [
+        "Forged In Strength"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_forgedinstrength.png",
+      "original": "public/assets/augments/original/t_augmenticon_forgedinstrength.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_forgedinstrength.png"
+      }
+    },
+    "T_AugmentIcon_Fourcing": {
+      "icon": "T_AugmentIcon_Fourcing",
+      "augmentIds": [
+        "DA_18_FOURcing"
+      ],
+      "names": [
+        "FOURcing"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_fourcing.png",
+      "original": "public/assets/augments/original/t_augmenticon_fourcing.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_fourcing.png"
+      }
+    },
+    "T_AugmentIcon_FrontlineFoundation": {
+      "icon": "T_AugmentIcon_FrontlineFoundation",
+      "augmentIds": [
+        "DA_FrontlineFoundation"
+      ],
+      "names": [
+        "Frontline Foundation"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_frontlinefoundation.png",
+      "original": "public/assets/augments/original/t_augmenticon_frontlinefoundation.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_frontlinefoundation.png"
+      }
+    },
+    "T_AugmentIcon_FutureFocused": {
+      "icon": "T_AugmentIcon_FutureFocused",
+      "augmentIds": [
+        "DA_FutureFocused"
+      ],
+      "names": [
+        "Future Focused"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_futurefocused.png",
+      "original": "public/assets/augments/original/t_augmenticon_futurefocused.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_futurefocused.png"
+      }
+    },
+    "T_AugmentIcon_GainGold": {
+      "icon": "T_AugmentIcon_GainGold",
+      "augmentIds": [
+        "DA_GainGold"
+      ],
+      "names": [
+        "Gain 21 Gold"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_gaingold.png",
+      "original": "public/assets/augments/original/t_augmenticon_gaingold.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_gaingold.png"
+      }
+    },
+    "T_AugmentIcon_GiantAndMighty": {
+      "icon": "T_AugmentIcon_GiantAndMighty",
+      "augmentIds": [
+        "DA_GiantAndMighty"
+      ],
+      "names": [
+        "Giant and Mighty"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_giantandmighty.png",
+      "original": "public/assets/augments/original/t_augmenticon_giantandmighty.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_giantandmighty.png"
+      }
+    },
+    "T_AugmentIcon_GildedSteel": {
+      "icon": "T_AugmentIcon_GildedSteel",
+      "augmentIds": [
+        "DA_GildedSteel"
+      ],
+      "names": [
+        "Gilded Steel"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_gildedsteel.png",
+      "original": "public/assets/augments/original/t_augmenticon_gildedsteel.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_gildedsteel.png"
+      }
+    },
+    "T_AugmentIcon_GlassCannon": {
+      "icon": "T_AugmentIcon_GlassCannon",
+      "augmentIds": [
+        "DA_GlassCannon_Silver",
+        "DA_GlassCannon_Gold"
+      ],
+      "names": [
+        "Glass Cannon I",
+        "Glass Cannon II"
+      ],
+      "rarities": [
+        "Silver",
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_glasscannon.png",
+      "original": "public/assets/augments/original/t_augmenticon_glasscannon.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_glasscannon.png",
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_glasscannon.png"
+      }
+    },
+    "T_AugmentIcon_GoingLong": {
+      "icon": "T_AugmentIcon_GoingLong",
+      "augmentIds": [
+        "DA_GoingLong"
+      ],
+      "names": [
+        "Going Long"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_goinglong.png",
+      "original": "public/assets/augments/original/t_augmenticon_goinglong.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_goinglong.png"
+      }
+    },
+    "T_AugmentIcon_GoldenGamble": {
+      "icon": "T_AugmentIcon_GoldenGamble",
+      "augmentIds": [
+        "DA_GoldenGamble",
+        "DA_GoldenGamblePlus",
+        "DA_GoldenGamblePlusPlus"
+      ],
+      "names": [
+        "Golden Gamble",
+        "Golden Gamble+",
+        "Golden Gamble++"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_goldengamble.png",
+      "original": "public/assets/augments/original/t_augmenticon_goldengamble.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_goldengamble.png"
+      }
+    },
+    "T_AugmentIcon_GoldenGifts": {
+      "icon": "T_AugmentIcon_GoldenGifts",
+      "augmentIds": [
+        "DA_BirthdayPresent"
+      ],
+      "names": [
+        "Birthday Present"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_goldengifts.png",
+      "original": "public/assets/augments/original/t_augmenticon_goldengifts.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_goldengifts.png"
+      }
+    },
+    "T_AugmentIcon_GoodForSomething": {
+      "icon": "T_AugmentIcon_GoodForSomething",
+      "augmentIds": [
+        "DA_18_GoodForSomethingI"
+      ],
+      "names": [
+        "Good For Something I"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_goodforsomething.png",
+      "original": "public/assets/augments/original/t_augmenticon_goodforsomething.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_goodforsomething.png"
+      }
+    },
+    "T_AugmentIcon_Group-Hug-1_TFT_Set17": {
+      "icon": "T_AugmentIcon_Group-Hug-1_TFT_Set17",
+      "augmentIds": [
+        "DA_GroupHugI"
+      ],
+      "names": [
+        "Group Hug I"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_group-hug-1_tft_set17.png",
+      "original": "public/assets/augments/original/t_augmenticon_group-hug-1_tft_set17.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_group-hug-1_tft_set17.png"
+      }
+    },
+    "T_AugmentIcon_GroupHug_Gold": {
+      "icon": "T_AugmentIcon_GroupHug_Gold",
+      "augmentIds": [
+        "DA_GroupHugII"
+      ],
+      "names": [
+        "Group Hug II"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_grouphug_gold.png",
+      "original": "public/assets/augments/original/t_augmenticon_grouphug_gold.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_grouphug_gold.png"
+      }
+    },
+    "T_AugmentIcon_Hard-Commit_TFT_Set12": {
+      "icon": "T_AugmentIcon_Hard-Commit_TFT_Set12",
+      "augmentIds": [
+        "DA_HardCommit"
+      ],
+      "names": [
+        "Hard Commit"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_hard-commit_tft_set12.png",
+      "original": "public/assets/augments/original/t_augmenticon_hard-commit_tft_set12.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_hard-commit_tft_set12.png"
+      }
+    },
+    "T_AugmentIcon_HardBargain": {
+      "icon": "T_AugmentIcon_HardBargain",
+      "augmentIds": [
+        "DA_HardBargain"
+      ],
+      "names": [
+        "Hard Bargain"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_hardbargain.png",
+      "original": "public/assets/augments/original/t_augmenticon_hardbargain.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_hardbargain.png"
+      }
+    },
+    "T_AugmentIcon_HealingOrbs_Gold_Big": {
+      "icon": "T_AugmentIcon_HealingOrbs_Gold_Big",
+      "augmentIds": [
+        "DA_HealingOrbsI",
+        "DA_HealingOrbsII"
+      ],
+      "names": [
+        "Healing Orbs I",
+        "Healing Orbs II"
+      ],
+      "rarities": [
+        "Silver",
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_healingorbs_gold_big.png",
+      "original": "public/assets/augments/original/t_augmenticon_healingorbs_gold_big.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_healingorbs_gold_big.png",
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_healingorbs_gold_big.png"
+      }
+    },
+    "T_AugmentIcon_HeartOfSteel": {
+      "icon": "T_AugmentIcon_HeartOfSteel",
+      "augmentIds": [
+        "DA_HeartOfSteel"
+      ],
+      "names": [
+        "Heart of Steel"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_heartofsteel.png",
+      "original": "public/assets/augments/original/t_augmenticon_heartofsteel.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_heartofsteel.png"
+      }
+    },
+    "T_AugmentIcon_HedgeFund_Gold_Big": {
+      "icon": "T_AugmentIcon_HedgeFund_Gold_Big",
+      "augmentIds": [
+        "DA_HedgeFund"
+      ],
+      "names": [
+        "Hedge Fund"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_hedgefund_gold_big.png",
+      "original": "public/assets/augments/original/t_augmenticon_hedgefund_gold_big.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_hedgefund_gold_big.png"
+      }
+    },
+    "T_AugmentIcon_HeroicGrabBag": {
+      "icon": "T_AugmentIcon_HeroicGrabBag",
+      "augmentIds": [
+        "DA_HeroicGrabBag",
+        "DA_HeroicGrabBagPlus",
+        "DA_HeroicGrabBagPlusPlus"
+      ],
+      "names": [
+        "Heroic Grab Bag",
+        "Heroic Grab Bag+",
+        "Heroic Grab Bag++"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_heroicgrabbag.png",
+      "original": "public/assets/augments/original/t_augmenticon_heroicgrabbag.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_heroicgrabbag.png"
+      }
+    },
+    "T_AugmentIcon_HoldTheLine": {
+      "icon": "T_AugmentIcon_HoldTheLine",
+      "augmentIds": [
+        "DA_HoldTheLine"
+      ],
+      "names": [
+        "Hold the Line"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_holdtheline.png",
+      "original": "public/assets/augments/original/t_augmenticon_holdtheline.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_holdtheline.png"
+      }
+    },
+    "T_AugmentIcon_Hustler": {
+      "icon": "T_AugmentIcon_Hustler",
+      "augmentIds": [
+        "DA_Hustler"
+      ],
+      "names": [
+        "Hustler"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_hustler.png",
+      "original": "public/assets/augments/original/t_augmenticon_hustler.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_hustler.png"
+      }
+    },
+    "T_AugmentIcon_Infinity-Protection": {
+      "icon": "T_AugmentIcon_Infinity-Protection",
+      "augmentIds": [
+        "DA_InfinityProtection"
+      ],
+      "names": [
+        "Infinity Protection"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_infinity-protection.png",
+      "original": "public/assets/augments/original/t_augmenticon_infinity-protection.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_infinity-protection.png"
+      }
+    },
+    "T_AugmentIcon_Invested": {
+      "icon": "T_AugmentIcon_Invested",
+      "augmentIds": [
+        "DA_InvestedPlus",
+        "DA_InvestedPlusPlus"
+      ],
+      "names": [
+        "Invested+",
+        "Invested++"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_invested.png",
+      "original": "public/assets/augments/original/t_augmenticon_invested.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_invested.png"
+      }
+    },
+    "T_AugmentIcon_InvestmentStrategy": {
+      "icon": "T_AugmentIcon_InvestmentStrategy",
+      "augmentIds": [
+        "DA_InvestmentStrategyI",
+        "DA_InvestmentStrategy"
+      ],
+      "names": [
+        "Investment Strategy I",
+        "Investment Strategy II"
+      ],
+      "rarities": [
+        "Gold",
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_investmentstrategy.png",
+      "original": "public/assets/augments/original/t_augmenticon_investmentstrategy.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_investmentstrategy.png",
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_investmentstrategy.png"
+      }
+    },
+    "T_AugmentIcon_IronAssets_Silver_Big": {
+      "icon": "T_AugmentIcon_IronAssets_Silver_Big",
+      "augmentIds": [
+        "DA_IronAssets"
+      ],
+      "names": [
+        "Iron Assets"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_ironassets_silver_big.png",
+      "original": "public/assets/augments/original/t_augmenticon_ironassets_silver_big.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_ironassets_silver_big.png"
+      }
+    },
+    "T_AugmentIcon_ItemGrabBag_Gold_Big": {
+      "icon": "T_AugmentIcon_ItemGrabBag_Gold_Big",
+      "augmentIds": [
+        "DA_ItemGrabBag"
+      ],
+      "names": [
+        "Item Grab Bag I"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_itemgrabbag_gold_big.png",
+      "original": "public/assets/augments/original/t_augmenticon_itemgrabbag_gold_big.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_itemgrabbag_gold_big.png"
+      }
+    },
+    "T_AugmentIcon_JeweledLotus": {
+      "icon": "T_AugmentIcon_JeweledLotus",
+      "augmentIds": [
+        "DA_JeweledLotus_I",
+        "DA_JeweledLotus_II"
+      ],
+      "names": [
+        "Jeweled Lotus I",
+        "Jeweled Lotus II"
+      ],
+      "rarities": [
+        "Gold",
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_jeweledlotus.png",
+      "original": "public/assets/augments/original/t_augmenticon_jeweledlotus.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_jeweledlotus.png",
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_jeweledlotus.png"
+      }
+    },
+    "T_AugmentIcon_KickStart": {
+      "icon": "T_AugmentIcon_KickStart",
+      "augmentIds": [
+        "DA_KickStart"
+      ],
+      "names": [
+        "Kick Start"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_kickstart.png",
+      "original": "public/assets/augments/original/t_augmenticon_kickstart.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_kickstart.png"
+      }
+    },
+    "T_AugmentIcon_Kingslayer_Silver": {
+      "icon": "T_AugmentIcon_Kingslayer_Silver",
+      "augmentIds": [
+        "DA_Kingslayer"
+      ],
+      "names": [
+        "Kingslayer"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_kingslayer_silver.png",
+      "original": "public/assets/augments/original/t_augmenticon_kingslayer_silver.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_kingslayer_silver.png"
+      }
+    },
+    "T_AugmentIcon_LateGameScaling": {
+      "icon": "T_AugmentIcon_LateGameScaling",
+      "augmentIds": [
+        "DA_LateGameScaling"
+      ],
+      "names": [
+        "Late Game Scaling"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_lategamescaling.png",
+      "original": "public/assets/augments/original/t_augmenticon_lategamescaling.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_lategamescaling.png"
+      }
+    },
+    "T_AugmentIcon_LateGameSpecialist": {
+      "icon": "T_AugmentIcon_LateGameSpecialist",
+      "augmentIds": [
+        "DA_LateGameSpecialist"
+      ],
+      "names": [
+        "Late Game Specialist"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_lategamespecialist.png",
+      "original": "public/assets/augments/original/t_augmenticon_lategamespecialist.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_lategamespecialist.png"
+      }
+    },
+    "T_AugmentIcon_LatentForge_Gold_Big": {
+      "icon": "T_AugmentIcon_LatentForge_Gold_Big",
+      "augmentIds": [
+        "DA_LatentForge"
+      ],
+      "names": [
+        "Latent Forge"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_latentforge_gold_big.png",
+      "original": "public/assets/augments/original/t_augmenticon_latentforge_gold_big.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_latentforge_gold_big.png"
+      }
+    },
+    "T_AugmentIcon_LegionofThrees": {
+      "icon": "T_AugmentIcon_LegionofThrees",
+      "augmentIds": [
+        "DA_LegionOfThrees"
+      ],
+      "names": [
+        "Legion Of Threes"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_legionofthrees.png",
+      "original": "public/assets/augments/original/t_augmenticon_legionofthrees.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_legionofthrees.png"
+      }
+    },
+    "T_AugmentIcon_LevelUp_Gold_Big": {
+      "icon": "T_AugmentIcon_LevelUp_Gold_Big",
+      "augmentIds": [
+        "DA_LevelUp"
+      ],
+      "names": [
+        "Level Up!"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_levelup_gold_big.png",
+      "original": "public/assets/augments/original/t_augmenticon_levelup_gold_big.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_levelup_gold_big.png"
+      }
+    },
+    "T_AugmentIcon_Lineup": {
+      "icon": "T_AugmentIcon_Lineup",
+      "augmentIds": [
+        "DA_Lineup"
+      ],
+      "names": [
+        "Twin Guardians"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_lineup.png",
+      "original": "public/assets/augments/original/t_augmenticon_lineup.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_lineup.png"
+      }
+    },
+    "T_AugmentIcon_LivingForge_Gold_Big": {
+      "icon": "T_AugmentIcon_LivingForge_Gold_Big",
+      "augmentIds": [
+        "DA_LivingForge"
+      ],
+      "names": [
+        "Living Forge"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_livingforge_gold_big.png",
+      "original": "public/assets/augments/original/t_augmenticon_livingforge_gold_big.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_livingforge_gold_big.png"
+      }
+    },
+    "T_AugmentIcon_Loaded_Dice": {
+      "icon": "T_AugmentIcon_Loaded_Dice",
+      "augmentIds": [
+        "DA_LoadedDice"
+      ],
+      "names": [
+        "Loaded Dice"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_loaded_dice.png",
+      "original": "public/assets/augments/original/t_augmenticon_loaded_dice.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_loaded_dice.png"
+      }
+    },
+    "T_AugmentIcon_LuckyGloves": {
+      "icon": "T_AugmentIcon_LuckyGloves",
+      "augmentIds": [
+        "DA_LuckyGloves",
+        "DA_LuckyGlovesPlus"
+      ],
+      "names": [
+        "Lucky Gloves",
+        "Lucky Gloves+"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_luckygloves.png",
+      "original": "public/assets/augments/original/t_augmenticon_luckygloves.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_luckygloves.png"
+      }
+    },
+    "T_AugmentIcon_Luxury-Subscription": {
+      "icon": "T_AugmentIcon_Luxury-Subscription",
+      "augmentIds": [
+        "DA_LuxurySubscription"
+      ],
+      "names": [
+        "Luxury Subscription"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_luxury-subscription.png",
+      "original": "public/assets/augments/original/t_augmenticon_luxury-subscription.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_luxury-subscription.png"
+      }
+    },
+    "T_AugmentIcon_MagicalRoll": {
+      "icon": "T_AugmentIcon_MagicalRoll",
+      "augmentIds": [
+        "DA_MagicRoll"
+      ],
+      "names": [
+        "Magic Roll"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_magicalroll.png",
+      "original": "public/assets/augments/original/t_augmenticon_magicalroll.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_magicalroll.png"
+      }
+    },
+    "T_AugmentIcon_MakeshiftArmor": {
+      "icon": "T_AugmentIcon_MakeshiftArmor",
+      "augmentIds": [
+        "DA_MakeshiftArmorI",
+        "DA_MakeshiftArmorII"
+      ],
+      "names": [
+        "Makeshift Armor I",
+        "Makeshift Armor II"
+      ],
+      "rarities": [
+        "Silver",
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_makeshiftarmor.png",
+      "original": "public/assets/augments/original/t_augmenticon_makeshiftarmor.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_makeshiftarmor.png",
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_makeshiftarmor.png"
+      }
+    },
+    "T_AugmentIcon_MaliciousMonetization": {
+      "icon": "T_AugmentIcon_MaliciousMonetization",
+      "augmentIds": [
+        "DA_MaliciousMonetization"
+      ],
+      "names": [
+        "Malicious Monetization"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_maliciousmonetization.png",
+      "original": "public/assets/augments/original/t_augmenticon_maliciousmonetization.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_maliciousmonetization.png"
+      }
+    },
+    "T_AugmentIcon_MaxBuild": {
+      "icon": "T_AugmentIcon_MaxBuild",
+      "augmentIds": [
+        "DA_MaxBuild"
+      ],
+      "names": [
+        "Max Build"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_maxbuild.png",
+      "original": "public/assets/augments/original/t_augmenticon_maxbuild.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_maxbuild.png"
+      }
+    },
+    "T_AugmentIcon_MinMax_Prismatic": {
+      "icon": "T_AugmentIcon_MinMax_Prismatic",
+      "augmentIds": [
+        "DA_Min_Max"
+      ],
+      "names": [
+        "Min-Max"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_minmax_prismatic.png",
+      "original": "public/assets/augments/original/t_augmenticon_minmax_prismatic.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_minmax_prismatic.png"
+      }
+    },
+    "T_AugmentIcon_MissedConnections_Gold_Big": {
+      "icon": "T_AugmentIcon_MissedConnections_Gold_Big",
+      "augmentIds": [
+        "DA_MissedConnections"
+      ],
+      "names": [
+        "Missed Connections"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_missedconnections_gold_big.png",
+      "original": "public/assets/augments/original/t_augmenticon_missedconnections_gold_big.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_missedconnections_gold_big.png"
+      }
+    },
+    "T_AugmentIcon_Money-Hungry-1": {
+      "icon": "T_AugmentIcon_Money-Hungry-1",
+      "augmentIds": [
+        "DA_MoneyHungry_NotBroken",
+        "DA_MoneyMonsoon"
+      ],
+      "names": [
+        "Money Hungry",
+        "Money Monsoon"
+      ],
+      "rarities": [
+        "Gold",
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_money-hungry-1.png",
+      "original": "public/assets/augments/original/t_augmenticon_money-hungry-1.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_money-hungry-1.png",
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_money-hungry-1.png"
+      }
+    },
+    "T_AugmentIcon_Money-Hungry-2": {
+      "icon": "T_AugmentIcon_Money-Hungry-2",
+      "augmentIds": [
+        "DA_MoneyHungryPlus"
+      ],
+      "names": [
+        "Money Hungry+"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_money-hungry-2.png",
+      "original": "public/assets/augments/original/t_augmenticon_money-hungry-2.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_money-hungry-2.png"
+      }
+    },
+    "T_AugmentIcon_NestingAnvils": {
+      "icon": "T_AugmentIcon_NestingAnvils",
+      "augmentIds": [
+        "DA_NestingAnvils",
+        "DA_NestingAnvilsPlus"
+      ],
+      "names": [
+        "Nesting Anvils",
+        "Nesting Anvils+"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_nestinganvils.png",
+      "original": "public/assets/augments/original/t_augmenticon_nestinganvils.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_nestinganvils.png"
+      }
+    },
+    "T_AugmentIcon_NestingDolls": {
+      "icon": "T_AugmentIcon_NestingDolls",
+      "augmentIds": [
+        "DA_NestingDolls",
+        "DA_NestingDollsPlus",
+        "DA_NestingDollsPlusPlus"
+      ],
+      "names": [
+        "Nesting Dolls",
+        "Nesting Dolls",
+        "Nesting Dolls"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_nestingdolls.png",
+      "original": "public/assets/augments/original/t_augmenticon_nestingdolls.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_nestingdolls.png"
+      }
+    },
+    "T_AugmentIcon_NoScoutNoPivot_II_TFT_Set13": {
+      "icon": "T_AugmentIcon_NoScoutNoPivot_II_TFT_Set13",
+      "augmentIds": [
+        "DA_NoScoutNoPivot"
+      ],
+      "names": [
+        "NO SCOUT NO PIVOT"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_noscoutnopivot_ii_tft_set13.png",
+      "original": "public/assets/augments/original/t_augmenticon_noscoutnopivot_ii_tft_set13.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_noscoutnopivot_ii_tft_set13.png"
+      }
+    },
+    "T_AugmentIcon_OneBuffTwoBuff": {
+      "icon": "T_AugmentIcon_OneBuffTwoBuff",
+      "augmentIds": [
+        "DA_OneBuffTwoBuff"
+      ],
+      "names": [
+        "One Buff Two Buff"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_onebufftwobuff.png",
+      "original": "public/assets/augments/original/t_augmenticon_onebufftwobuff.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_onebufftwobuff.png"
+      }
+    },
+    "T_AugmentIcon_OneTwoFive": {
+      "icon": "T_AugmentIcon_OneTwoFive",
+      "augmentIds": [
+        "DA_18_OneTwoFive"
+      ],
+      "names": [
+        "One, Two, Five!"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_onetwofive.png",
+      "original": "public/assets/augments/original/t_augmenticon_onetwofive.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_onetwofive.png"
+      }
+    },
+    "T_AugmentIcon_OneTwosThree": {
+      "icon": "T_AugmentIcon_OneTwosThree",
+      "augmentIds": [
+        "DA_18_OnesTwosThree"
+      ],
+      "names": [
+        "Ones Two Three"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_onetwosthree.png",
+      "original": "public/assets/augments/original/t_augmenticon_onetwosthree.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_onetwosthree.png"
+      }
+    },
+    "T_AugmentIcon_PandorasBench": {
+      "icon": "T_AugmentIcon_PandorasBench",
+      "augmentIds": [
+        "DA_PandorasBench"
+      ],
+      "names": [
+        "Pandora's Bench"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_pandorasbench.png",
+      "original": "public/assets/augments/original/t_augmenticon_pandorasbench.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_pandorasbench.png"
+      }
+    },
+    "T_AugmentIcon_PandorasItems": {
+      "icon": "T_AugmentIcon_PandorasItems",
+      "augmentIds": [
+        "DA_PandorasItemsI",
+        "DA_PandorasItemsII",
+        "DA_PandorasItemsIII"
+      ],
+      "names": [
+        "Pandora's Items I",
+        "Pandora's Items II",
+        "Pandora's Items III"
+      ],
+      "rarities": [
+        "Silver",
+        "Gold",
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_pandorasitems.png",
+      "original": "public/assets/augments/original/t_augmenticon_pandorasitems.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_pandorasitems.png",
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_pandorasitems.png",
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_pandorasitems.png"
+      }
+    },
+    "T_AugmentIcon_PatienceIsAVirtue": {
+      "icon": "T_AugmentIcon_PatienceIsAVirtue",
+      "augmentIds": [
+        "DA_PatienceIsAVirtue"
+      ],
+      "names": [
+        "Patience Is A Virtue"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_patienceisavirtue.png",
+      "original": "public/assets/augments/original/t_augmenticon_patienceisavirtue.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_patienceisavirtue.png"
+      }
+    },
+    "T_AugmentIcon_PatientStudy_Gold_Big": {
+      "icon": "T_AugmentIcon_PatientStudy_Gold_Big",
+      "augmentIds": [
+        "DA_PatientStudy"
+      ],
+      "names": [
+        "Patient Study"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_patientstudy_gold_big.png",
+      "original": "public/assets/augments/original/t_augmenticon_patientstudy_gold_big.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_patientstudy_gold_big.png"
+      }
+    },
+    "T_AugmentIcon_Pilfer": {
+      "icon": "T_AugmentIcon_Pilfer",
+      "augmentIds": [
+        "DA_Pilfer"
+      ],
+      "names": [
+        "Pilfer"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_pilfer.png",
+      "original": "public/assets/augments/original/t_augmenticon_pilfer.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_pilfer.png"
+      }
+    },
+    "T_AugmentIcon_PlotArmor": {
+      "icon": "T_AugmentIcon_PlotArmor",
+      "augmentIds": [
+        "DA_PlotArmor"
+      ],
+      "names": [
+        "Plot Armor"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_plotarmor.png",
+      "original": "public/assets/augments/original/t_augmenticon_plotarmor.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_plotarmor.png"
+      }
+    },
+    "T_AugmentIcon_PortableForge_Gold_Big": {
+      "icon": "T_AugmentIcon_PortableForge_Gold_Big",
+      "augmentIds": [
+        "DA_PortableForge"
+      ],
+      "names": [
+        "Portable Forge"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_portableforge_gold_big.png",
+      "original": "public/assets/augments/original/t_augmenticon_portableforge_gold_big.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_portableforge_gold_big.png"
+      }
+    },
+    "T_AugmentIcon_PrismaticTicket_Big": {
+      "icon": "T_AugmentIcon_PrismaticTicket_Big",
+      "augmentIds": [
+        "DA_PrismaticTicket"
+      ],
+      "names": [
+        "Prismatic Ticket"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_prismaticticket_big.png",
+      "original": "public/assets/augments/original/t_augmenticon_prismaticticket_big.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_prismaticticket_big.png"
+      }
+    },
+    "T_AugmentIcon_PromisedProtection_II": {
+      "icon": "T_AugmentIcon_PromisedProtection_II",
+      "augmentIds": [
+        "DA_PromisedProtection"
+      ],
+      "names": [
+        "Promised Protection"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_promisedprotection_ii.png",
+      "original": "public/assets/augments/original/t_augmenticon_promisedprotection_ii.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_promisedprotection_ii.png"
+      }
+    },
+    "T_AugmentIcon_RadiantRascal": {
+      "icon": "T_AugmentIcon_RadiantRascal",
+      "augmentIds": [
+        "DA_RadiantRascal"
+      ],
+      "names": [
+        "Radiant Rascal"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_radiantrascal.png",
+      "original": "public/assets/augments/original/t_augmenticon_radiantrascal.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_radiantrascal.png"
+      }
+    },
+    "T_AugmentIcon_RadiantRelics_Gold_Big": {
+      "icon": "T_AugmentIcon_RadiantRelics_Gold_Big",
+      "augmentIds": [
+        "DA_RadiantRelic"
+      ],
+      "names": [
+        "Radiant Relics"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_radiantrelics_gold_big.png",
+      "original": "public/assets/augments/original/t_augmenticon_radiantrelics_gold_big.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_radiantrelics_gold_big.png"
+      }
+    },
+    "T_AugmentIcon_RapidStreaker": {
+      "icon": "T_AugmentIcon_RapidStreaker",
+      "augmentIds": [
+        "DA_QuickStreaks"
+      ],
+      "names": [
+        "Quick Streaks"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_rapidstreaker.png",
+      "original": "public/assets/augments/original/t_augmenticon_rapidstreaker.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_rapidstreaker.png"
+      }
+    },
+    "T_AugmentIcon_Recombobulator": {
+      "icon": "T_AugmentIcon_Recombobulator",
+      "augmentIds": [
+        "DA_Recombobulator"
+      ],
+      "names": [
+        "Recombobulator"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_recombobulator.png",
+      "original": "public/assets/augments/original/t_augmenticon_recombobulator.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_recombobulator.png"
+      }
+    },
+    "T_AugmentIcon_Replication": {
+      "icon": "T_AugmentIcon_Replication",
+      "augmentIds": [
+        "DA_Replication"
+      ],
+      "names": [
+        "Replication"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_replication.png",
+      "original": "public/assets/augments/original/t_augmenticon_replication.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_replication.png"
+      }
+    },
+    "T_AugmentIcon_Residual_Magic": {
+      "icon": "T_AugmentIcon_Residual_Magic",
+      "augmentIds": [
+        "DA_18_ResidualMagic",
+        "DA_18_ResidualMagicPlus",
+        "DA_18_ResidualMagicPlusPlus"
+      ],
+      "names": [
+        "Residual Magic",
+        "Residual Magic +",
+        "Residual Magic ++"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_residual_magic.png",
+      "original": "public/assets/augments/original/t_augmenticon_residual_magic.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_residual_magic.png"
+      }
+    },
+    "T_AugmentIcon_Retribution": {
+      "icon": "T_AugmentIcon_Retribution",
+      "augmentIds": [
+        "DA_Retribution"
+      ],
+      "names": [
+        "Retribution"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_retribution.png",
+      "original": "public/assets/augments/original/t_augmenticon_retribution.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_retribution.png"
+      }
+    },
+    "T_AugmentIcon_RivalsToFriends": {
+      "icon": "T_AugmentIcon_RivalsToFriends",
+      "augmentIds": [
+        "DA_18_RivalsAugment",
+        "DA_18_RivalsAugmentPlus"
+      ],
+      "names": [
+        "Unrivaled",
+        "Unrivaled"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_rivalstofriends.png",
+      "original": "public/assets/augments/original/t_augmenticon_rivalstofriends.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_rivalstofriends.png"
+      }
+    },
+    "T_AugmentIcon_RollingForDays_Gold_Big": {
+      "icon": "T_AugmentIcon_RollingForDays_Gold_Big",
+      "augmentIds": [
+        "DA_RollingForDays"
+      ],
+      "names": [
+        "Rolling For Days"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_rollingfordays_gold_big.png",
+      "original": "public/assets/augments/original/t_augmenticon_rollingfordays_gold_big.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_rollingfordays_gold_big.png"
+      }
+    },
+    "T_AugmentIcon_Salvage1": {
+      "icon": "T_AugmentIcon_Salvage1",
+      "augmentIds": [
+        "DA_SalvageBin",
+        "DA_SalvageBinPlus"
+      ],
+      "names": [
+        "Salvage Bin",
+        "Salvage Bin+"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_salvage1.png",
+      "original": "public/assets/augments/original/t_augmenticon_salvage1.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_salvage1.png"
+      }
+    },
+    "T_AugmentIcon_SeraphimsStaff": {
+      "icon": "T_AugmentIcon_SeraphimsStaff",
+      "augmentIds": [
+        "DA_SeraphimsStaff"
+      ],
+      "names": [
+        "Seraphim's Staff"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_seraphimsstaff.png",
+      "original": "public/assets/augments/original/t_augmenticon_seraphimsstaff.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_seraphimsstaff.png"
+      }
+    },
+    "T_AugmentIcon_ShimmerscaleEssence": {
+      "icon": "T_AugmentIcon_ShimmerscaleEssence",
+      "augmentIds": [
+        "DA_ShimmerscaleEssence"
+      ],
+      "names": [
+        "Shimmerscale Essence"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_shimmerscaleessence.png",
+      "original": "public/assets/augments/original/t_augmenticon_shimmerscaleessence.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_shimmerscaleessence.png"
+      }
+    },
+    "T_AugmentIcon_ShoppingSpree_Big": {
+      "icon": "T_AugmentIcon_ShoppingSpree_Big",
+      "augmentIds": [
+        "DA_ShoppingSpree"
+      ],
+      "names": [
+        "Shopping Spree"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_shoppingspree_big.png",
+      "original": "public/assets/augments/original/t_augmenticon_shoppingspree_big.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_shoppingspree_big.png"
+      }
+    },
+    "T_AugmentIcon_SilverSpoon_Gold_Big": {
+      "icon": "T_AugmentIcon_SilverSpoon_Gold_Big",
+      "augmentIds": [
+        "DA_SilverSpoon"
+      ],
+      "names": [
+        "Silver Spoon"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_silverspoon_gold_big.png",
+      "original": "public/assets/augments/original/t_augmenticon_silverspoon_gold_big.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_silverspoon_gold_big.png"
+      }
+    },
+    "T_AugmentIcon_Slammin": {
+      "icon": "T_AugmentIcon_Slammin",
+      "augmentIds": [
+        "DA_Slammin",
+        "DA_SlamminPlus"
+      ],
+      "names": [
+        "Slammin'",
+        "Slammin'+"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_slammin.png",
+      "original": "public/assets/augments/original/t_augmenticon_slammin.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_slammin.png"
+      }
+    },
+    "T_AugmentIcon_SliceOfLife": {
+      "icon": "T_AugmentIcon_SliceOfLife",
+      "augmentIds": [
+        "DA_SliceOfLife"
+      ],
+      "names": [
+        "Slice of Life"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_sliceoflife.png",
+      "original": "public/assets/augments/original/t_augmenticon_sliceoflife.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_sliceoflife.png"
+      }
+    },
+    "T_AugmentIcon_SlightlyMagicRoll_Silver": {
+      "icon": "T_AugmentIcon_SlightlyMagicRoll_Silver",
+      "augmentIds": [
+        "DA_SlightlyMagicRoll"
+      ],
+      "names": [
+        "Slightly Magic Roll"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_slightlymagicroll_silver.png",
+      "original": "public/assets/augments/original/t_augmenticon_slightlymagicroll_silver.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_slightlymagicroll_silver.png"
+      }
+    },
+    "T_AugmentIcon_SmallGrabBag": {
+      "icon": "T_AugmentIcon_SmallGrabBag",
+      "augmentIds": [
+        "DA_SmallGrabBag"
+      ],
+      "names": [
+        "Small Grab Bag"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_smallgrabbag.png",
+      "original": "public/assets/augments/original/t_augmenticon_smallgrabbag.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_smallgrabbag.png"
+      }
+    },
+    "T_AugmentIcon_SoloLeveling": {
+      "icon": "T_AugmentIcon_SoloLeveling",
+      "augmentIds": [
+        "DA_SoloLeveling"
+      ],
+      "names": [
+        "Solo Leveling"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_sololeveling.png",
+      "original": "public/assets/augments/original/t_augmenticon_sololeveling.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_sololeveling.png"
+      }
+    },
+    "T_AugmentIcon_SoloPlate": {
+      "icon": "T_AugmentIcon_SoloPlate",
+      "augmentIds": [
+        "DA_SoloPlate"
+      ],
+      "names": [
+        "Solo Plate"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_soloplate.png",
+      "original": "public/assets/augments/original/t_augmenticon_soloplate.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_soloplate.png"
+      }
+    },
+    "T_AugmentIcon_Soul-Awakening": {
+      "icon": "T_AugmentIcon_Soul-Awakening",
+      "augmentIds": [
+        "DA_SoulAwakening"
+      ],
+      "names": [
+        "Soul Awakening"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_soul-awakening.png",
+      "original": "public/assets/augments/original/t_augmenticon_soul-awakening.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_soul-awakening.png"
+      }
+    },
+    "T_AugmentIcon_SpeedyDoubleKill_II": {
+      "icon": "T_AugmentIcon_SpeedyDoubleKill_II",
+      "augmentIds": [
+        "DA_SpeedyDoubleKill"
+      ],
+      "names": [
+        "Speedy Double Kill"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_speedydoublekill_ii.png",
+      "original": "public/assets/augments/original/t_augmenticon_speedydoublekill_ii.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_speedydoublekill_ii.png"
+      }
+    },
+    "T_AugmentIcon_Spirit-of-Redemption": {
+      "icon": "T_AugmentIcon_Spirit-of-Redemption",
+      "augmentIds": [
+        "DA_SpiritOfRedemption"
+      ],
+      "names": [
+        "Spirit Of Redemption"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_spirit-of-redemption.png",
+      "original": "public/assets/augments/original/t_augmenticon_spirit-of-redemption.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_spirit-of-redemption.png"
+      }
+    },
+    "T_AugmentIcon_SpreadingRoots": {
+      "icon": "T_AugmentIcon_SpreadingRoots",
+      "augmentIds": [
+        "DA_SpreadingRoots",
+        "DA_SpreadingRootsPlus"
+      ],
+      "names": [
+        "Spreading Roots",
+        "Spreading Roots+"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_spreadingroots.png",
+      "original": "public/assets/augments/original/t_augmenticon_spreadingroots.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_spreadingroots.png"
+      }
+    },
+    "T_AugmentIcon_Staffsmith": {
+      "icon": "T_AugmentIcon_Staffsmith",
+      "augmentIds": [
+        "DA_Staffsmith"
+      ],
+      "names": [
+        "Staffsmith"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_staffsmith.png",
+      "original": "public/assets/augments/original/t_augmenticon_staffsmith.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_staffsmith.png"
+      }
+    },
+    "T_AugmentIcon_StandUnited_Gold_Big": {
+      "icon": "T_AugmentIcon_StandUnited_Gold_Big",
+      "augmentIds": [
+        "DA_StandUnited"
+      ],
+      "names": [
+        "Stand United"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_standunited_gold_big.png",
+      "original": "public/assets/augments/original/t_augmenticon_standunited_gold_big.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_standunited_gold_big.png"
+      }
+    },
+    "T_AugmentIcon_StarringUp": {
+      "icon": "T_AugmentIcon_StarringUp",
+      "augmentIds": [
+        "DA_StarringUp"
+      ],
+      "names": [
+        "Starring Up"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_starringup.png",
+      "original": "public/assets/augments/original/t_augmenticon_starringup.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_starringup.png"
+      }
+    },
+    "T_AugmentIcon_SubscriptionService": {
+      "icon": "T_AugmentIcon_SubscriptionService",
+      "augmentIds": [
+        "DA_SubscriptionService"
+      ],
+      "names": [
+        "Subscription Service"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_subscriptionservice.png",
+      "original": "public/assets/augments/original/t_augmenticon_subscriptionservice.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_subscriptionservice.png"
+      }
+    },
+    "T_AugmentIcon_SweetTreats": {
+      "icon": "T_AugmentIcon_SweetTreats",
+      "augmentIds": [
+        "DA_SweetTreats"
+      ],
+      "names": [
+        "Sweet Treats"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_sweettreats.png",
+      "original": "public/assets/augments/original/t_augmenticon_sweettreats.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_sweettreats.png"
+      }
+    },
+    "T_AugmentIcon_Swordsmith": {
+      "icon": "T_AugmentIcon_Swordsmith",
+      "augmentIds": [
+        "DA_Swordsmith"
+      ],
+      "names": [
+        "Swordsmith"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_swordsmith.png",
+      "original": "public/assets/augments/original/t_augmenticon_swordsmith.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_swordsmith.png"
+      }
+    },
+    "T_AugmentIcon_Tacticians-Kitchen": {
+      "icon": "T_AugmentIcon_Tacticians-Kitchen",
+      "augmentIds": [
+        "DA_TacticiansKitchen"
+      ],
+      "names": [
+        "Tactician's Kitchen"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_tacticians-kitchen.png",
+      "original": "public/assets/augments/original/t_augmenticon_tacticians-kitchen.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_tacticians-kitchen.png"
+      }
+    },
+    "T_AugmentIcon_TeamBuilding_Silver": {
+      "icon": "T_AugmentIcon_TeamBuilding_Silver",
+      "augmentIds": [
+        "DA_TeamBuilding"
+      ],
+      "names": [
+        "Team Building"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_teambuilding_silver.png",
+      "original": "public/assets/augments/original/t_augmenticon_teambuilding_silver.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_teambuilding_silver.png"
+      }
+    },
+    "T_AugmentIcon_The-Golden-Egg-III": {
+      "icon": "T_AugmentIcon_The-Golden-Egg-III",
+      "augmentIds": [
+        "DA_GoldenEgg"
+      ],
+      "names": [
+        "The Golden Egg"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_the-golden-egg-iii.png",
+      "original": "public/assets/augments/original/t_augmenticon_the-golden-egg-iii.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_the-golden-egg-iii.png"
+      }
+    },
+    "T_AugmentIcon_TheBaronsLair": {
+      "icon": "T_AugmentIcon_TheBaronsLair",
+      "augmentIds": [
+        "DA_BaronsLair"
+      ],
+      "names": [
+        "Baron's Lair"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_thebaronslair.png",
+      "original": "public/assets/augments/original/t_augmenticon_thebaronslair.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_thebaronslair.png"
+      }
+    },
+    "T_AugmentIcon_TheGoldenDragon_II": {
+      "icon": "T_AugmentIcon_TheGoldenDragon_II",
+      "augmentIds": [
+        "DA_TheGoldenDragon"
+      ],
+      "names": [
+        "The Golden Dragon"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_thegoldendragon_ii.png",
+      "original": "public/assets/augments/original/t_augmenticon_thegoldendragon_ii.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_thegoldendragon_ii.png"
+      }
+    },
+    "T_AugmentIcon_TheTower": {
+      "icon": "T_AugmentIcon_TheTower",
+      "augmentIds": [
+        "DA_TheTower"
+      ],
+      "names": [
+        "The Tower"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_thetower.png",
+      "original": "public/assets/augments/original/t_augmenticon_thetower.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_thetower.png"
+      }
+    },
+    "T_AugmentIcon_TheTraitTree": {
+      "icon": "T_AugmentIcon_TheTraitTree",
+      "augmentIds": [
+        "DA_TheTraitTree",
+        "DA_TheTraitTreePlus"
+      ],
+      "names": [
+        "The Trait Tree",
+        "The Trait Tree+"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_thetraittree.png",
+      "original": "public/assets/augments/original/t_augmenticon_thetraittree.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_thetraittree.png"
+      }
+    },
+    "T_AugmentIcon_TimeSkip": {
+      "icon": "T_AugmentIcon_TimeSkip",
+      "augmentIds": [
+        "DA_TimeSkip"
+      ],
+      "names": [
+        "Time Skip"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_timeskip.png",
+      "original": "public/assets/augments/original/t_augmenticon_timeskip.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_timeskip.png"
+      }
+    },
+    "T_AugmentIcon_TonsofStats": {
+      "icon": "T_AugmentIcon_TonsofStats",
+      "augmentIds": [
+        "DA_TonsOfStatsI",
+        "DA_TonsOfStatsII"
+      ],
+      "names": [
+        "Tons of Stats!",
+        "TONS of Stats!"
+      ],
+      "rarities": [
+        "Gold",
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_tonsofstats.png",
+      "original": "public/assets/augments/original/t_augmenticon_tonsofstats.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_tonsofstats.png",
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_tonsofstats.png"
+      }
+    },
+    "T_AugmentIcon_TradeSector_Big": {
+      "icon": "T_AugmentIcon_TradeSector_Big",
+      "augmentIds": [
+        "DA_TradeSector",
+        "DA_TradeSectorPlus"
+      ],
+      "names": [
+        "Trade Sector",
+        "Trade Sector+"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_tradesector_big.png",
+      "original": "public/assets/augments/original/t_augmenticon_tradesector_big.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_tradesector_big.png"
+      }
+    },
+    "T_AugmentIcon_Trait_Ladder": {
+      "icon": "T_AugmentIcon_Trait_Ladder",
+      "augmentIds": [
+        "DA_TraitLadder"
+      ],
+      "names": [
+        "Trait Ladder"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_trait_ladder.png",
+      "original": "public/assets/augments/original/t_augmenticon_trait_ladder.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_trait_ladder.png"
+      }
+    },
+    "T_AugmentIcon_TwinGuardians": {
+      "icon": "T_AugmentIcon_TwinGuardians",
+      "augmentIds": [
+        "DA_TwinGuardians"
+      ],
+      "names": [
+        "Twin Guardians"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_twinguardians.png",
+      "original": "public/assets/augments/original/t_augmenticon_twinguardians.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_twinguardians.png"
+      }
+    },
+    "T_AugmentIcon_UltraRapidFire": {
+      "icon": "T_AugmentIcon_UltraRapidFire",
+      "augmentIds": [
+        "DA_URF"
+      ],
+      "names": [
+        "U.R.F"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_ultrarapidfire.png",
+      "original": "public/assets/augments/original/t_augmenticon_ultrarapidfire.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_ultrarapidfire.png"
+      }
+    },
+    "T_AugmentIcon_UpwardMobility": {
+      "icon": "T_AugmentIcon_UpwardMobility",
+      "augmentIds": [
+        "DA_UpwardMobility"
+      ],
+      "names": [
+        "Upward Mobility"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_upwardmobility.png",
+      "original": "public/assets/augments/original/t_augmenticon_upwardmobility.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_upwardmobility.png"
+      }
+    },
+    "T_AugmentIcon_UrfsGrabBag": {
+      "icon": "T_AugmentIcon_UrfsGrabBag",
+      "augmentIds": [
+        "DA_UrfsGrabBag"
+      ],
+      "names": [
+        "Urf's Grab Bag"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_urfsgrabbag.png",
+      "original": "public/assets/augments/original/t_augmenticon_urfsgrabbag.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_urfsgrabbag.png"
+      }
+    },
+    "T_AugmentIcon_Verticality": {
+      "icon": "T_AugmentIcon_Verticality",
+      "augmentIds": [
+        "DA_VerticalityI",
+        "DA_VerticalityII",
+        "DA_VerticalityIII"
+      ],
+      "names": [
+        "Verticality I",
+        "Verticality II",
+        "Verticality III"
+      ],
+      "rarities": [
+        "Silver",
+        "Gold",
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_verticality.png",
+      "original": "public/assets/augments/original/t_augmenticon_verticality.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_verticality.png",
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_verticality.png",
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_verticality.png"
+      }
+    },
+    "T_AugmentIcon_WandOverflow": {
+      "icon": "T_AugmentIcon_WandOverflow",
+      "augmentIds": [
+        "DA_WandOverflow"
+      ],
+      "names": [
+        "Wand Overflow"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_wandoverflow.png",
+      "original": "public/assets/augments/original/t_augmenticon_wandoverflow.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_wandoverflow.png"
+      }
+    },
+    "T_AugmentIcon_Warpath": {
+      "icon": "T_AugmentIcon_Warpath",
+      "augmentIds": [
+        "DA_Warpath"
+      ],
+      "names": [
+        "Warpath"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_warpath.png",
+      "original": "public/assets/augments/original/t_augmenticon_warpath.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_warpath.png"
+      }
+    },
+    "T_AugmentIcon_WeStickTogeter": {
+      "icon": "T_AugmentIcon_WeStickTogeter",
+      "augmentIds": [
+        "DA_WeStickTogether"
+      ],
+      "names": [
+        "We Stick Together"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_westicktogeter.png",
+      "original": "public/assets/augments/original/t_augmenticon_westicktogeter.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_westicktogeter.png"
+      }
+    },
+    "T_AugmentIcon_Weight_The_Worth_2": {
+      "icon": "T_AugmentIcon_Weight_The_Worth_2",
+      "augmentIds": [
+        "DA_18_WeightTheWorth"
+      ],
+      "names": [
+        "Weight The Worth"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_weight_the_worth_2.png",
+      "original": "public/assets/augments/original/t_augmenticon_weight_the_worth_2.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_weight_the_worth_2.png"
+      }
+    },
+    "T_AugmentIcon_WispRebate": {
+      "icon": "T_AugmentIcon_WispRebate",
+      "augmentIds": [
+        "DA_18_WispRebatePlus",
+        "DA_18_WispRebatePlusPlus"
+      ],
+      "names": [
+        "Wisp Rebate",
+        "Wisp Rebate+"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_wisprebate.png",
+      "original": "public/assets/augments/original/t_augmenticon_wisprebate.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_wisprebate.png"
+      }
+    },
+    "T_AugmentIcon_WorthTheWait": {
+      "icon": "T_AugmentIcon_WorthTheWait",
+      "augmentIds": [
+        "DA_WorththeWait",
+        "DA_WorththeWaitII"
+      ],
+      "names": [
+        "Worth the Wait",
+        "Worth the Wait II"
+      ],
+      "rarities": [
+        "Gold",
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_worththewait.png",
+      "original": "public/assets/augments/original/t_augmenticon_worththewait.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_worththewait.png",
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_worththewait.png"
+      }
+    },
+    "T_AugmentIcon_WovenMagic": {
+      "icon": "T_AugmentIcon_WovenMagic",
+      "augmentIds": [
+        "DA_WovenMagic"
+      ],
+      "names": [
+        "Woven Magic"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_wovenmagic.png",
+      "original": "public/assets/augments/original/t_augmenticon_wovenmagic.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_wovenmagic.png"
+      }
+    },
+    "T_AugmentIcon_Youngandwildandfree": {
+      "icon": "T_AugmentIcon_Youngandwildandfree",
+      "augmentIds": [
+        "DA_YoungAndWildAndFree"
+      ],
+      "names": [
+        "Young and Wild and Free"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_youngandwildandfree.png",
+      "original": "public/assets/augments/original/t_augmenticon_youngandwildandfree.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_youngandwildandfree.png"
+      }
+    },
+    "T_AugmentIcon_blossomaugment2": {
+      "icon": "T_AugmentIcon_blossomaugment2",
+      "augmentIds": [
+        "DA_18_BlossomTraitAugment"
+      ],
+      "names": [
+        "Blossom's Call"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_blossomaugment2.png",
+      "original": "public/assets/augments/original/t_augmenticon_blossomaugment2.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_blossomaugment2.png"
+      }
+    },
+    "T_AugmentIcon_covenaugment": {
+      "icon": "T_AugmentIcon_covenaugment",
+      "augmentIds": [
+        "DA_18_CovenTraitAugment"
+      ],
+      "names": [
+        "Coven Acolyte"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_covenaugment.png",
+      "original": "public/assets/augments/original/t_augmenticon_covenaugment.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_covenaugment.png"
+      }
+    },
+    "T_AugmentIcon_covenaugment2": {
+      "icon": "T_AugmentIcon_covenaugment2",
+      "augmentIds": [
+        "DA_18_CovenTraitAugment_LootToAP"
+      ],
+      "names": [
+        "Dark Ritual"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_covenaugment2.png",
+      "original": "public/assets/augments/original/t_augmenticon_covenaugment2.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_covenaugment2.png"
+      }
+    },
+    "T_AugmentIcon_destiny": {
+      "icon": "T_AugmentIcon_destiny",
+      "augmentIds": [
+        "DA_GoldDestiny",
+        "DA_GoldDestinyPlus",
+        "DA_PrismaticDestiny",
+        "DA_PrismaticDestinyPlus",
+        "DA_SilverDestiny",
+        "DA_SilverDestinyPlus",
+        "DA_SilverDestinyPlusPlus"
+      ],
+      "names": [
+        "Gold Destiny",
+        "Gold Destiny+",
+        "Prismatic Destiny",
+        "Prismatic Destiny+",
+        "Silver Destiny",
+        "Silver Destiny+",
+        "Silver Destiny++"
+      ],
+      "rarities": [
+        "Silver",
+        "Gold",
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_destiny.png",
+      "original": "public/assets/augments/original/t_augmenticon_destiny.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_destiny.png",
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_destiny.png",
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_destiny.png"
+      }
+    },
+    "T_AugmentIcon_elderwoodaugment": {
+      "icon": "T_AugmentIcon_elderwoodaugment",
+      "augmentIds": [
+        "DA_18_ElderwoodTraitAugment"
+      ],
+      "names": [
+        "Nature's Shelter"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_elderwoodaugment.png",
+      "original": "public/assets/augments/original/t_augmenticon_elderwoodaugment.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_elderwoodaugment.png"
+      }
+    },
+    "T_AugmentIcon_eldritchaugment": {
+      "icon": "T_AugmentIcon_eldritchaugment",
+      "augmentIds": [
+        "DA_BlackthornTraitAugment"
+      ],
+      "names": [
+        "Item Extraction"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_eldritchaugment.png",
+      "original": "public/assets/augments/original/t_augmenticon_eldritchaugment.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_eldritchaugment.png"
+      }
+    },
+    "T_AugmentIcon_faeaugment2": {
+      "icon": "T_AugmentIcon_faeaugment2",
+      "augmentIds": [
+        "DA_18_FaeTraitAugment"
+      ],
+      "names": [
+        "Embiggen"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_faeaugment2.png",
+      "original": "public/assets/augments/original/t_augmenticon_faeaugment2.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_faeaugment2.png"
+      }
+    },
+    "T_AugmentIcon_floraaugment": {
+      "icon": "T_AugmentIcon_floraaugment",
+      "augmentIds": [
+        "DA_18_FloraFatalisAugmentPlus"
+      ],
+      "names": [
+        "Consuming Flora"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_floraaugment.png",
+      "original": "public/assets/augments/original/t_augmenticon_floraaugment.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_floraaugment.png"
+      }
+    },
+    "T_AugmentIcon_floraaugment2": {
+      "icon": "T_AugmentIcon_floraaugment2",
+      "augmentIds": [
+        "DA_18_FloraFatalisAugment"
+      ],
+      "names": [
+        "Consuming Flora"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_floraaugment2.png",
+      "original": "public/assets/augments/original/t_augmenticon_floraaugment2.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_floraaugment2.png"
+      }
+    },
+    "T_AugmentIcon_infernoaugment2": {
+      "icon": "T_AugmentIcon_infernoaugment2",
+      "augmentIds": [
+        "DA_18_InfernoTraitAugment"
+      ],
+      "names": [
+        "Flame On"
+      ],
+      "rarities": [
+        "Silver"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_infernoaugment2.png",
+      "original": "public/assets/augments/original/t_augmenticon_infernoaugment2.png",
+      "variants": {
+        "Silver": "public/assets/augments/rarity/Silver/t_augmenticon_infernoaugment2.png"
+      }
+    },
+    "T_AugmentIcon_itsmebaby": {
+      "icon": "T_AugmentIcon_itsmebaby",
+      "augmentIds": [
+        "DA_ItsMeBaby"
+      ],
+      "names": [
+        "It's Me, Baby"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_itsmebaby.png",
+      "original": "public/assets/augments/original/t_augmenticon_itsmebaby.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_itsmebaby.png"
+      }
+    },
+    "T_AugmentIcon_lunaraugment": {
+      "icon": "T_AugmentIcon_lunaraugment",
+      "augmentIds": [
+        "DA_18_LunarTraitAugment"
+      ],
+      "names": [
+        "Sun and Moon"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_lunaraugment.png",
+      "original": "public/assets/augments/original/t_augmenticon_lunaraugment.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_lunaraugment.png"
+      }
+    },
+    "T_AugmentIcon_lunaraugment2": {
+      "icon": "T_AugmentIcon_lunaraugment2",
+      "augmentIds": [
+        "DA_18_LunarTraitAugmentPlus"
+      ],
+      "names": [
+        "Sun and Moon+"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_lunaraugment2.png",
+      "original": "public/assets/augments/original/t_augmenticon_lunaraugment2.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_lunaraugment2.png"
+      }
+    },
+    "T_AugmentIcon_masterofallorigins": {
+      "icon": "T_AugmentIcon_masterofallorigins",
+      "augmentIds": [
+        "DA_18_LuxAugmentII"
+      ],
+      "names": [
+        "Master of All Origins"
+      ],
+      "rarities": [
+        "Prismatic"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_masterofallorigins.png",
+      "original": "public/assets/augments/original/t_augmenticon_masterofallorigins.png",
+      "variants": {
+        "Prismatic": "public/assets/augments/rarity/Prismatic/t_augmenticon_masterofallorigins.png"
+      }
+    },
+    "T_AugmentIcon_primalaugment": {
+      "icon": "T_AugmentIcon_primalaugment",
+      "augmentIds": [
+        "DA_18_PrimalAugment_Nidalee",
+        "DA_18_PrimalAugment_Sivir",
+        "DA_18_PrimalAugmentPlus_Nidalee",
+        "DA_18_PrimalAugmentPlus_Sivir"
+      ],
+      "names": [
+        "Beast Within",
+        "Beast Within",
+        "Beast Within+",
+        "Beast Within+"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_primalaugment.png",
+      "original": "public/assets/augments/original/t_augmenticon_primalaugment.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_primalaugment.png"
+      }
+    },
+    "T_AugmentIcon_riftbeastaugment": {
+      "icon": "T_AugmentIcon_riftbeastaugment",
+      "augmentIds": [
+        "DA_18_RiftbeastTraitAugment"
+      ],
+      "names": [
+        "Omega Riftbeast"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_riftbeastaugment.png",
+      "original": "public/assets/augments/original/t_augmenticon_riftbeastaugment.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_riftbeastaugment.png"
+      }
+    },
+    "T_AugmentIcon_solaraugment": {
+      "icon": "T_AugmentIcon_solaraugment",
+      "augmentIds": [
+        "DA_18_SolarTraitAugment"
+      ],
+      "names": [
+        "Chosen of the Sun"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_solaraugment.png",
+      "original": "public/assets/augments/original/t_augmenticon_solaraugment.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_solaraugment.png"
+      }
+    },
+    "T_AugmentIcon_sprykinaugment": {
+      "icon": "T_AugmentIcon_sprykinaugment",
+      "augmentIds": [
+        "DA_18_SprykinAugment"
+      ],
+      "names": [
+        "Small Furry Friend"
+      ],
+      "rarities": [
+        "Gold"
+      ],
+      "sourceUrl": "https://cdn.metatft.com/file/metatft/augments/t_augmenticon_sprykinaugment.png",
+      "original": "public/assets/augments/original/t_augmenticon_sprykinaugment.png",
+      "variants": {
+        "Gold": "public/assets/augments/rarity/Gold/t_augmenticon_sprykinaugment.png"
+      }
+    }
+  },
+  "rarityVariants": {
+    "Silver": [
+      "public/assets/augments/rarity/Silver/t_augmenticon_ascension.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_augmentedpower.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_backupbows.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_bandofthieves.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_boxinglessons.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_branchingout.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_calledshot.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_capitalgains.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_caretakersally.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_carve-a-path.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_celestial-blessings-i_tft_set16.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_champdelivery.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_cognitive-tax_tft_set17.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_componentbuffet_silver_big.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_constructacompanion.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_corrosion.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_craftedcrafting.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_dummify.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_electrocharge-i.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_expedition.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_extrabuckles_silver.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_feelinglucky.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_findyourcenter_silver.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_flowingtears_i.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_focusedfire.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_futurefocused.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_glasscannon.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_goodforsomething.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_group-hug-1_tft_set17.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_healingorbs_gold_big.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_ironassets_silver_big.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_itemgrabbag_gold_big.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_kickstart.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_kingslayer_silver.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_lategamespecialist.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_latentforge_gold_big.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_lineup.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_loaded_dice.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_makeshiftarmor.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_missedconnections_gold_big.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_onetwofive.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_onetwosthree.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_pandorasbench.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_pandorasitems.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_patienceisavirtue.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_rapidstreaker.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_recombobulator.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_residual_magic.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_rollingfordays_gold_big.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_silverspoon_gold_big.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_sliceoflife.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_slightlymagicroll_silver.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_smallgrabbag.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_standunited_gold_big.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_teambuilding_silver.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_thetower.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_twinguardians.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_verticality.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_wisprebate.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_youngandwildandfree.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_destiny.png",
+      "public/assets/augments/rarity/Silver/t_augmenticon_infernoaugment2.png"
+    ],
+    "Gold": [
+      "public/assets/augments/rarity/Gold/t_augmenticon_advancedloan.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_advancedloanplus.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_arcaneviktory_augmentmasks.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_ascension.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_backlineblueprint.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_biggrabbag_gold_big.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_birthdayreunion.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_bodyguardtraining.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_bonusgift.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_boosterpack1.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_boosterpack2.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_boosterpack3.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_bronzeforlife.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_calculatedloss_gold_big.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_capitalgains.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_caretakersally.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_celestial-blessings-i_tft_set16.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_challengersgrace.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_clearmind_gold_big.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_clockworkaccelerator.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_clutteredmind_gold_big.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_cognitiveoverload.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_constructacompanion.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_cookingpot.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_crymeariver.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_cyberneticuplink.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_cybernetic_gold_big.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_doubletrouble_gold.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_duoqueue.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_earlylearning.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_electrocharge-i.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_epicrolldown.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_epoch.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_exclusivecustomization.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_explosive-growth.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_fourcing.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_frontlinefoundation.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_gaingold.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_gildedsteel.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_glasscannon.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_grouphug_gold.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_hardbargain.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_healingorbs_gold_big.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_heartofsteel.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_heroicgrabbag.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_hustler.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_infinity-protection.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_investmentstrategy.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_jeweledlotus.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_lategamescaling.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_legionofthrees.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_magicalroll.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_makeshiftarmor.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_maliciousmonetization.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_maxbuild.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_money-hungry-1.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_money-hungry-2.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_noscoutnopivot_ii_tft_set13.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_pandorasitems.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_patientstudy_gold_big.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_pilfer.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_plotarmor.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_portableforge_gold_big.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_promisedprotection_ii.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_replication.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_rivalstofriends.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_salvage1.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_seraphimsstaff.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_slammin.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_sololeveling.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_soloplate.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_speedydoublekill_ii.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_spirit-of-redemption.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_spreadingroots.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_staffsmith.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_swordsmith.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_thegoldendragon_ii.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_timeskip.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_tonsofstats.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_tradesector_big.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_ultrarapidfire.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_verticality.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_warpath.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_weight_the_worth_2.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_worththewait.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_wovenmagic.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_blossomaugment2.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_covenaugment.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_covenaugment2.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_destiny.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_elderwoodaugment.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_eldritchaugment.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_faeaugment2.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_floraaugment.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_floraaugment2.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_itsmebaby.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_lunaraugment.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_lunaraugment2.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_primalaugment.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_riftbeastaugment.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_solaraugment.png",
+      "public/assets/augments/rarity/Gold/t_augmenticon_sprykinaugment.png"
+    ],
+    "Prismatic": [
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_bandofthieves.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_beltoverflow.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_bladeoverflow.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_bronzeforlife.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_buildabud.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_buriedtreasures_gold_big.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_calltochaos.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_celestial-blessings-i_tft_set16.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_comebackstory.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_commercecore.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_componentquest.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_coronation.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_cursedcrown.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_deadlierblades.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_deadliercaps.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_flexible.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_forgedinstrength.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_giantandmighty.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_goinglong.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_goldengamble.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_goldengifts.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_hard-commit_tft_set12.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_hedgefund_gold_big.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_holdtheline.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_invested.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_investmentstrategy.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_jeweledlotus.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_levelup_gold_big.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_livingforge_gold_big.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_luckygloves.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_luxury-subscription.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_minmax_prismatic.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_money-hungry-1.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_nestinganvils.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_nestingdolls.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_onebufftwobuff.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_pandorasitems.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_prismaticticket_big.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_radiantrascal.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_radiantrelics_gold_big.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_retribution.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_shimmerscaleessence.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_shoppingspree_big.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_soul-awakening.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_starringup.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_subscriptionservice.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_sweettreats.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_tacticians-kitchen.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_the-golden-egg-iii.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_thebaronslair.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_thetraittree.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_tonsofstats.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_trait_ladder.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_upwardmobility.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_urfsgrabbag.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_verticality.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_wandoverflow.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_westicktogeter.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_worththewait.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_destiny.png",
+      "public/assets/augments/rarity/Prismatic/t_augmenticon_masterofallorigins.png"
+    ]
+  },
+  "missing": []
+}

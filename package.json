@@ -1,0 +1,32 @@
+{
+  "name": "tft-18-helper",
+  "private": true,
+  "version": "5.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview",
+    "assets:download": "python scripts/download_assets.py",
+    "assets:recolor": "python scripts/recolor_augment_icon.py",
+    "assets:optimize": "python scripts/optimize_assets.py",
+    "assets:sync": "python scripts/sync_assets.py",
+    "data:validate": "python scripts/validate_data.py",
+    "dev:vercel": "vercel dev",
+    "server": "node server.js",
+    "start": "node server.js",
+    "dev:api": "node server.js --dev",
+    "mock:gemini": "node scripts/mock-gemini.js"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@vitejs/plugin-react": "^6.1.1",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "react-router-dom": "^7.18.3",
+    "tailwindcss": "^4.3.3",
+    "vite": "^8.2.2",
+    "fuse.js": "^7.5.0"
+  },
+  "devDependencies": {}
+}

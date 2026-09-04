@@ -1,0 +1,16 @@
+TFT_18_HELPER — Quick Start
+
+1) npm install
+2) npm run dev
+3) Open http://localhost:5173/ on your PC.
+4) On a phone connected to the same Wi-Fi, open the Network URL printed by Vite.
+
+Asset workflow (optional):
+- pip install requests pillow
+- npm run assets:sync
+
+This reads public/data/Set18.json and the supplied comp/item data without modifying the source JSON files.
+The asset scripts create local PNG/WebP derivatives and the augment rarity variants needed by the UI.
+
+Production check:
+- npm run build
